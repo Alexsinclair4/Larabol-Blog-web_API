@@ -1,0 +1,17 @@
+/*Home page styling*/
+body{
+    background-color:#8fc7f4;
+}
+nav{
+    display:flex;
+    justify-content: space-between;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    font-size: 25px;
+    font-weight: light;
+}
+nav ul li{
+    display: inline;
+    list-style-type: none;
+    padding: 0 30px;
+}
